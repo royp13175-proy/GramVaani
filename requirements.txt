@@ -4,3 +4,4 @@ gTTS==2.4.0
 SpeechRecognition==3.10.0
 python-dotenv==1.0.0
 rapidfuzz==3.5.2
+gunicorn
