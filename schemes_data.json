@@ -1,0 +1,113 @@
+[
+  {
+    "id": "pm_kisan",
+    "name": "PM-Kisan Samman Nidhi Yojana",
+    "name_hi": "प्रधानमंत्री किसान सम्मान निधि योजना",
+    "category": "Kisan / Agriculture",
+    "eligibility": "Chote aur seemant kisan jinke paas 2 hectare tak zameen hai",
+    "benefits": "Har saal Rs 6000, 3 kishton me seedhe bank account me",
+    "documents": [
+      "Aadhaar Card",
+      "Khatauni / Land Record",
+      "Bank Passbook"
+    ],
+    "apply_link": "https://pmkisan.gov.in/",
+    "keywords": [
+      "kisan",
+      "kheti",
+      "fasal",
+      "6000",
+      "pm kisan",
+      "किसान",
+      "खेती"
+    ]
+  },
+  {
+    "id": "ayushman",
+    "name": "Ayushman Bharat Yojana",
+    "name_hi": "आयुष्मान भारत योजना",
+    "category": "Health",
+    "eligibility": "Gareeb aur BPL parivaar, SECC data me naam hona chahiye",
+    "benefits": "5 Lakh tak ka muft ilaaj, kisi bhi sarkari/private hospital me",
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card",
+      "BPL Certificate"
+    ],
+    "apply_link": "https://pmjay.gov.in/",
+    "keywords": [
+      "bima",
+      "ilaaj",
+      "hospital",
+      "health",
+      "ayushman",
+      "बीमारी",
+      "इलाज"
+    ]
+  },
+  {
+    "id": "ujjwala",
+    "name": "PM Ujjwala Yojana",
+    "name_hi": "प्रधानमंत्री उज्ज्वला योजना",
+    "category": "Women / Gas",
+    "eligibility": "BPL parivaar ki mahila, 18 saal se upar",
+    "benefits": "Muft LPG gas connection, pehla cylinder free",
+    "documents": [
+      "Aadhaar Card",
+      "BPL Ration Card",
+      "Bank Account"
+    ],
+    "apply_link": "https://www.pmuy.gov.in/",
+    "keywords": [
+      "gas",
+      "chulha",
+      "ujjwala",
+      "mahila",
+      "गैस",
+      "चूल्हा"
+    ]
+  },
+  {
+    "id": "awass",
+    "name": "PM Awas Yojana",
+    "name_hi": "प्रधानमंत्री आवास योजना",
+    "category": "Housing",
+    "eligibility": "Jinke paas pakka makaan nahi hai, gareeb parivaar",
+    "benefits": "Ghar banane ke liye Rs 1.2 Lakh - 2.5 Lakh tak ki subsidy",
+    "documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "Bank Account"
+    ],
+    "apply_link": "https://pmaymis.gov.in/",
+    "keywords": [
+      "ghar",
+      "makaan",
+      "awas",
+      "housing",
+      "घर",
+      "मकान"
+    ]
+  },
+  {
+    "id": "skill_india",
+    "name": "Skill India / Kaushal Vikas Yojana",
+    "name_hi": "कौशल विकास योजना",
+    "category": "Employment",
+    "eligibility": "15-45 saal ke yuva jo berozgar hain",
+    "benefits": "Muft training + Rs 8000 tak ka bhatta + job me madad",
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "apply_link": "https://www.skillindia.gov.in/",
+    "keywords": [
+      "naukri",
+      "rozgar",
+      "skill",
+      "training",
+      "kaushal",
+      "रोजगार"
+    ]
+  }
+]
